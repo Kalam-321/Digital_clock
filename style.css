@@ -94,7 +94,7 @@
 
 @media (max-width: 768px) {
     .container {
-        width: 90%;
+        width: 80%;
     }
 }
 
@@ -103,7 +103,7 @@
         font-size: 60px;
     }
     .container {
-        width: 90%;
+        width: 80%;
     }
 }
 
@@ -112,6 +112,6 @@
         font-size: 40px;
     }
     .container {
-        width: 90%;
+        width: 80%;
     }
 }
